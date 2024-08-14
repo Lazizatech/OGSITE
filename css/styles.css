@@ -224,7 +224,7 @@ a:hover {
 }
 #feature {
 	padding: 80px 0;
-	background: #FAD12B;
+
 	color: #202020;
 }
 #feature h2 {
@@ -440,10 +440,9 @@ a:hover {
 	-webkit-opacity: 0.9;
 	-moz-opacity: 0.9;
 	opacity: 0.9;
-	border: 0;
+	
 	color: #fff;
 	font-weight: 100;
-	padding: 0;
 }
 .ekko-lightbox-nav-overlay a {
 	-webkit-opacity: 0.9;
@@ -578,7 +577,7 @@ a:hover {
 }
 #footer {
 	background: #fff;
-	padding: 50px 0 50px;
+
 }
 .social ul {
 	padding: 0;
